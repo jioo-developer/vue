@@ -76,7 +76,7 @@ export default {
       let day = this.nowDate.getDate();
       let 내게시물 = {
         name: "tester",
-        userImage: "http://rlawlgh3687.dothome.co.kr/default.svg",
+        userImage: "https://placeimg.com/100/100/arch",
         postImage: this.image,
         likes: 0,
         date: `${month}월${day}일`,
